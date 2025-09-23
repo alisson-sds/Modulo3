@@ -1,0 +1,6 @@
+Modelo,Descrição,Acurácia,Precisão,Recall,Specificity,F1 Score,Tempo em Segundo
+SVM,"SVM sem ""balanceamento de classes"" e ""sem validação cruzada""",0.97668161,1.00000000,0.84337349,1.00000000,0.91503268,0.08221946
+SVM,"SVM com ""balanceamento de classes Undersampling"" e ""sem validação cruzada""",0.94983278,0.97841727,0.91891892,0.98013245,0.94773519,1.42832160
+SVM,"SVM com ""balanceamento de classes Oversampling"" e ""sem validação cruzada""",0.99740933,1.00000000,0.99496475,1.00000000,0.99747602,11.23934746
+SVM,"SVM com ""balanceamento de classes Undersampling"" e ""validação cruzada""",0.93311037,0.94444444,0.91891892,0.94701987,0.93150685,6.25541520
+SVM,"SVM com ""balanceamento de classes Oversampling"" e ""validação cruzada""",0.99792746,1.00000000,0.99597180,1.00000000,0.99798184,97.66177940
